@@ -10,6 +10,8 @@ def add(num1, num2):
 def subtract(num1, num2):
     """Return the value of num1 minus num2."""
 
+    return num1 - num2
+
 
 def multiply(num1, num2):
     """Multiply the num1 by num2 and return the result."""
