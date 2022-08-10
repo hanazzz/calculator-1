@@ -22,6 +22,8 @@ def multiply(num1, num2):
 def divide(num1, num2):
     """Divide the num1 by num2, returning a floating point."""
 
+    return num1 / num2 
+
 
 def square(num1):
     """Return the square of num1."""
